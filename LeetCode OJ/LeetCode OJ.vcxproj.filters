@@ -39,5 +39,14 @@
     <ClCompile Include="Move Zeroes.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ZigZag Conversation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse Integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest Common Prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

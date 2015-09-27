@@ -69,9 +69,12 @@
     <ClCompile Include="Excel Sheet Column Title.cpp" />
     <ClCompile Include="Factorial Trailing Zeroes.cpp" />
     <ClCompile Include="Isomorphic Strings.cpp" />
+    <ClCompile Include="Longest Common Prefix.cpp" />
     <ClCompile Include="Majority Element.cpp" />
     <ClCompile Include="Move Zeroes.cpp" />
+    <ClCompile Include="Reverse Integer.cpp" />
     <ClCompile Include="Search Insert Position.cpp" />
+    <ClCompile Include="ZigZag Conversation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
