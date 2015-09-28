@@ -65,6 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add Digits.cpp" />
+    <ClCompile Include="Contains Duplicate.cpp" />
     <ClCompile Include="Count Primes.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
     <ClCompile Include="Excel Sheet Column Title.cpp" />
@@ -72,11 +73,13 @@
     <ClCompile Include="Happy Number.cpp" />
     <ClCompile Include="Integer to Roman.cpp" />
     <ClCompile Include="Isomorphic Strings.cpp" />
+    <ClCompile Include="Length of Last Word.cpp" />
     <ClCompile Include="Longest Common Prefix.cpp" />
     <ClCompile Include="Majority Element.cpp" />
     <ClCompile Include="Move Zeroes.cpp" />
     <ClCompile Include="Number of 1 Bits.cpp" />
     <ClCompile Include="Number of Digit One.cpp" />
+    <ClCompile Include="Pascal%27s Triangle.cpp" />
     <ClCompile Include="Power of Two.cpp" />
     <ClCompile Include="Remove Duplicates from Sorted Array.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />

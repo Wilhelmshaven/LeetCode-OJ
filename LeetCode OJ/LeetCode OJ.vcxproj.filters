@@ -75,5 +75,14 @@
     <ClCompile Include="Number of 1 Bits.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Pascal%27s Triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Contains Duplicate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Length of Last Word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
