@@ -48,5 +48,32 @@
     <ClCompile Include="Longest Common Prefix.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Remove Duplicates from Sorted Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ugly Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Add Digits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid Anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Number of Digit One.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Happy Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Power of Two.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Integer to Roman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Number of 1 Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
