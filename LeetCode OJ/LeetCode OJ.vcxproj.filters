@@ -84,5 +84,20 @@
     <ClCompile Include="Length of Last Word.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Roman to Integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Climbing Stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Single Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Plus One.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

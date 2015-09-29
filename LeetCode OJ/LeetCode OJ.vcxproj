@@ -65,6 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add Digits.cpp" />
+    <ClCompile Include="Climbing Stairs.cpp" />
     <ClCompile Include="Contains Duplicate.cpp" />
     <ClCompile Include="Count Primes.cpp" />
     <ClCompile Include="Excel Sheet Column Number.cpp" />
@@ -80,10 +81,14 @@
     <ClCompile Include="Number of 1 Bits.cpp" />
     <ClCompile Include="Number of Digit One.cpp" />
     <ClCompile Include="Pascal%27s Triangle.cpp" />
+    <ClCompile Include="Plus One.cpp" />
     <ClCompile Include="Power of Two.cpp" />
     <ClCompile Include="Remove Duplicates from Sorted Array.cpp" />
+    <ClCompile Include="Remove Element.cpp" />
     <ClCompile Include="Reverse Integer.cpp" />
+    <ClCompile Include="Roman to Integer.cpp" />
     <ClCompile Include="Search Insert Position.cpp" />
+    <ClCompile Include="Single Number.cpp" />
     <ClCompile Include="Ugly Number.cpp" />
     <ClCompile Include="Valid Anagram.cpp" />
     <ClCompile Include="ZigZag Conversation.cpp" />
