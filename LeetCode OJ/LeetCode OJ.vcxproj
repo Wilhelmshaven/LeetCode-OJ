@@ -77,9 +77,12 @@
     <ClCompile Include="Length of Last Word.cpp" />
     <ClCompile Include="Longest Common Prefix.cpp" />
     <ClCompile Include="Majority Element.cpp" />
+    <ClCompile Include="Maximum Subarray.cpp" />
+    <ClCompile Include="Min Stack.cpp" />
     <ClCompile Include="Move Zeroes.cpp" />
     <ClCompile Include="Number of 1 Bits.cpp" />
     <ClCompile Include="Number of Digit One.cpp" />
+    <ClCompile Include="Pascal%27s Triangle II.cpp" />
     <ClCompile Include="Pascal%27s Triangle.cpp" />
     <ClCompile Include="Plus One.cpp" />
     <ClCompile Include="Power of Two.cpp" />
@@ -89,8 +92,11 @@
     <ClCompile Include="Roman to Integer.cpp" />
     <ClCompile Include="Search Insert Position.cpp" />
     <ClCompile Include="Single Number.cpp" />
+    <ClCompile Include="Sort Colors.cpp" />
+    <ClCompile Include="Summary Ranges.cpp" />
     <ClCompile Include="Ugly Number.cpp" />
     <ClCompile Include="Valid Anagram.cpp" />
+    <ClCompile Include="Valid Parentheses.cpp" />
     <ClCompile Include="ZigZag Conversation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
