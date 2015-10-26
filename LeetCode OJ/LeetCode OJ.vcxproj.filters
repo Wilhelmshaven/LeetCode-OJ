@@ -135,5 +135,14 @@
     <ClCompile Include="Implement Queue using Stacks.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Search a 2D Matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Jump Game II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Duplicates from Sorted List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
