@@ -84,6 +84,7 @@
     <ClCompile Include="Maximum Depth of Binary Tree.cpp" />
     <ClCompile Include="Maximum Subarray.cpp" />
     <ClCompile Include="Min Stack.cpp" />
+    <ClCompile Include="Missing Number.cpp" />
     <ClCompile Include="Move Zeroes.cpp" />
     <ClCompile Include="Nim Game.cpp" />
     <ClCompile Include="Number of 1 Bits.cpp" />

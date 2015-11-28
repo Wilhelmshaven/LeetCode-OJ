@@ -144,5 +144,8 @@
     <ClCompile Include="Remove Duplicates from Sorted List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Missing Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
